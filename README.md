@@ -104,9 +104,12 @@ Interactive docs: `http://127.0.0.1:8000/docs`
 
 ## Dashboard screenshots
 
-Add your own screenshots here after running the project:
+<img width="1913" height="897" alt="Screenshot 2026-10-08 214429" src="https://github.com/user-attachments/assets/8e6eb909-5ce0-4bfc-8a79-bdd93f7d9943" />
+<img width="1906" height="902" alt="Screenshot 2026-10-08 214350" src="https://github.com/user-attachments/assets/337a64d8-9e29-4702-af17-7aa4afc04943" />
+<img width="1912" height="903" alt="Screenshot 2026-10-08 214319" src="https://github.com/user-attachments/assets/501eaf81-3683-4d87-a887-76f86bba9fd4" />
+<img width="1907" height="907" alt="Screenshot 2026-10-08 214234" src="https://github.com/user-attachments/assets/60df23e2-f60b-46d3-8828-1a45d3534d47" />
+<img width="1908" height="908" alt="Screenshot 2026-10-08 214142" src="https://github.com/user-attachments/assets/5a6f6272-5085-4990-8257-d45210a95a2a" />
 
-![Dashboard](docs/screenshots/dashboard.png)
 
 ## Installation
 
