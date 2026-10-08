@@ -104,11 +104,11 @@ Interactive docs: `http://127.0.0.1:8000/docs`
 
 ## Dashboard screenshots
 
-<img width="1913" height="897" alt="Screenshot 2026-10-08 214429" src="https://github.com/user-attachments/assets/8e6eb909-5ce0-4bfc-8a79-bdd93f7d9943" />
-<img width="1906" height="902" alt="Screenshot 2026-10-08 214350" src="https://github.com/user-attachments/assets/337a64d8-9e29-4702-af17-7aa4afc04943" />
-<img width="1912" height="903" alt="Screenshot 2026-10-08 214319" src="https://github.com/user-attachments/assets/501eaf81-3683-4d87-a887-76f86bba9fd4" />
-<img width="1907" height="907" alt="Screenshot 2026-10-08 214234" src="https://github.com/user-attachments/assets/60df23e2-f60b-46d3-8828-1a45d3534d47" />
-<img width="1908" height="908" alt="Screenshot 2026-10-08 214142" src="https://github.com/user-attachments/assets/5a6f6272-5085-4990-8257-d45210a95a2a" />
+<img width="1913" height="897" alt="Screenshot 2026-10-08 214429" src="https://github.com/user-attachments/assets/75aaa68f-f4e1-4aaa-9751-7644d4b11201" />
+<img width="1906" height="902" alt="Screenshot 2026-10-08 214350" src="https://github.com/user-attachments/assets/47b2dc9f-92cc-49f1-8a4c-14e254f64864" />
+<img width="1912" height="903" alt="Screenshot 2026-10-08 214319" src="https://github.com/user-attachments/assets/6a5e186b-f62a-4c84-ac26-52dd229294ee" />
+<img width="1907" height="907" alt="Screenshot 2026-10-08 214234" src="https://github.com/user-attachments/assets/b242c7ff-766d-4604-9a6c-6d9bf2bd1f9e" />
+<img width="1908" height="908" alt="Screenshot 2026-10-08 214142" src="https://github.com/user-attachments/assets/1f951ced-8218-4a63-9f02-7c2cd4aabb26" />
 
 
 ## Installation
